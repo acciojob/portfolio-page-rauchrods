@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+#skills{
+	color:red;
+	font-size:18px;
+}
+#projects{
+	color:green;
+	font-size:20px;
+}
